@@ -21,7 +21,7 @@ if (not defined $fastq || not defined $name || not defined $outdir){
 }
 
 if (not defined $samtools || not defined $bcftools || not defined $python3){
-	die "please specify: -mm2 <minimap2_bin> -samtools <samtools_bin> -bcftools <bcftools> -py3 <python3>\n";
+	die "please specify: -samtools <samtools_bin> -bcftools <bcftools_bin> -py3 <python3>\n";
 }
 
 # main steps
