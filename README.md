@@ -4,15 +4,16 @@
 
 # Test data
 `https://www.pacb.com/connect/datasets/`
-Click Dataset `Omicron samples` and you will see `https://downloads.pacbcloud.com/public/dataset/HiFiViral/Jan_2022/`
 
-## Fastq
-Download `samples.hifi_reads.fastq.zip`: Processed HiFi reads: demultiplexed, trimmed, and QCed (96 samples)
+`https://downloads.pacbcloud.com/public/dataset/HiFiViral/Jan_2022/`
 
-## Aligned BAM
-Download `samples.mapped.bam.zip`: Processed HiFi reads mapped to Wuhan reference NC.045512.2 (96 samples)
+### Fastq
+`samples.hifi_reads.fastq.zip`: Processed HiFi reads: demultiplexed, trimmed, and QCed (96 samples)
 
-> We use 
+### Aligned BAM
+`samples.mapped.bam.zip`: Processed HiFi reads mapped to Wuhan reference NC.045512.2 (96 samples)
+
+We use `C_D3R7.hifi_reads.fastq` as test data
 
 
 # PacBio Documents
