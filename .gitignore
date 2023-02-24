@@ -1,0 +1,6 @@
+data/
+test/C_D3R7/C_D3R7.bam.depth
+test/C_D3R7/C_D3R7.mpileup
+test/C_D3R7/C_D3R7.sam
+test/C_D3R7/C_D3R7.sort.bam
+test/C_D3R7/C_D3R7.sort.bam.bai
